@@ -1,4 +1,4 @@
-# How to Creat Alerts in Azure
+# How to Create Alerts in Azure
 
     1.	Create a Log Analytics Workspace
     2.	Create a Storage Account to store the Logs
